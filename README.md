@@ -1,3 +1,2 @@
 # UDP-Text-Protocol
-A simple client-server application using UDP-based binary protocol.
-Winsock 2.2 API is used.
+Winsock 2.2 API is used. For more information check doc.pdf file.
